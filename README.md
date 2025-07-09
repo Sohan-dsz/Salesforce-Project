@@ -91,8 +91,10 @@
 1. Get customer email.
 2. Send formatted reminder email.
 
----
 
-## 🧐 Apex Logic
 
-... (truncated for brevity in this snippet, full content will be written in file) ...
+
+🙌 Credits
+
+Project Owner: Sohan D Souza
+Platform: SkillWallet
