@@ -1,6 +1,7 @@
 
 
 🚗 WhatNext Vision Motors: Shaping the Future of Mobility with Innovation and Excellence
+
 📘 Project Overview
 WhatNext Vision MotorsWhatNext Vision Motors is a pioneering force in the automotive industry, committed to delivering a customer-centric experience through technological innovation. This Salesforce CRM-based project was built to enhance customer satisfaction, optimize dealer assignment, manage vehicle stock efficiently, and automate key business processes.
 
